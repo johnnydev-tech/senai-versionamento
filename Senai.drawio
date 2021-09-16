@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T00:06:04.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="oW--spEPnABqVWViewjx" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T00:14:40.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="M_Wz_uBRA0Sz75wh26wy" version="15.2.7" type="github">
   <diagram id="J2NB9XXZ9rXnAfuIrIxE" name="Page-1">
-    <mxGraphModel dx="4172" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2401" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,6 +169,14 @@
         </mxCell>
         <mxCell id="9S0l-wIRz3GOgGVBHp39-51" value="Cadastrar Evento?&lt;br&gt;Informe dados do Evento" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="541" y="71" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9S0l-wIRz3GOgGVBHp39-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.434;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9S0l-wIRz3GOgGVBHp39-54" target="9S0l-wIRz3GOgGVBHp39-138">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="210" />
+              <mxPoint x="30" y="210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9S0l-wIRz3GOgGVBHp39-54" value="listar _eventos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-25" y="160" width="140" height="40" as="geometry" />
